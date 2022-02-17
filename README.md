@@ -8,6 +8,6 @@ Here are some ideas to get you started:
 # - 🔭 I’m currently working 
 -->
 
-- 🌱 I’m currently learning PYTHON, JS, HTML, CSS
+- 🌱 I’m currently learning JS, HTML, CSS
 - 🤔 I’m looking for help with CSS
-- 📫 How to reach me: #nesdarkgit
+- 📫 How to reach me: nesdark500@gmail.com
